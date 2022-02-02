@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This is a web app that allows the user to search for books and save them.
+This is a web app that allows the user to sign up/login to purchase various items from the store. You may view your order history via the order history tab if signed in.
 
 ## Built With
 * Bootstrap
